@@ -1,0 +1,71 @@
+.card {
+    background-color: #cacdd3;
+}
+
+.gal {
+    background-color: #282c34;
+    color: white;
+}
+
+body{
+    background-color: #282c34;
+}
+
+.iconbag {
+    position: fixed;
+    right: 10%;
+    top: 10%;
+}
+
+.cursor-pointer {
+    cursor:pointer;
+}
+
+
+.shopping-bag {
+    background-color: transparent;
+    z-index: 1099;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    right: 8%;
+}
+
+.shopping-bag-container {
+    height: 50%;
+    position: relative;
+    overflow-y: auto;
+}
+
+.shopping-bag-lb {
+    width: 50px;
+}
+
+.shopping-bag-lb-value {
+    width: 80px;
+}
+
+.shopping-bag-link {
+    color: #cecece;
+}
+
+.shopping-bag-image {
+    width: 65px;
+}
+
+.shopping-bag-card {
+    height: 325px;
+}
+
+#loading-spinner {
+    animation: loading-spinner 1s linear infinite;
+  }
+  
+  @keyframes loading-spinner {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
