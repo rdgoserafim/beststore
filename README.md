@@ -1,6 +1,6 @@
 Desenvolvido por Rodrigo Serafim  rdgo.serafim@gmail.com | +55 43 991214420
 
-ESTE É APENAS UM PROJETO DE APRESENTAÇÃO, COM RECURSOS LIMITADOS. DESENVOLVIDO EM RESPOSTA AOS OBJETIVOS DECLARADOS NO ARQUIVO ./Devnology - Teste Desenvolvedor(a) Fullstack .pdf
+ESTE É APENAS UM PROJETO DE APRESENTAÇÃO, COM RECURSOS LIMITADOS. DESENVOLVIDO COMO EXERCICIO
 
 
 Processo de desenvolvimento
@@ -56,7 +56,7 @@ Ambiente de desenvolvimento
 	-Laravel Framework 10.7.1
 	-React 18.2.0
 
-1. descompacte os arquivos em seu ambiente de trabalho
+1. descompacte os arquivos em seu ambiente de trabalho ou clone o repositorio
 2. configurações back-end:
 	- configure o back-end, acesso a baco de dados etc em  /beststore/backend/.env
 	- acesse /beststore/backend/ e execute:
